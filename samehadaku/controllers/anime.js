@@ -10,7 +10,7 @@ const {
   zippyGetLink
 } = require('../helper/index.js')
 
-const baseUrl = 'https://samehadaku.win/';
+const baseUrl = 'https://samehadaku.care/';
 const ongoing = `${baseUrl}ongoing/`;
 const schedule = `${baseUrl}jadwal-rilis/`;
 const batch = `${baseUrl}daftar-batch/`;
